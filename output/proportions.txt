@@ -1,0 +1,11 @@
+total pages::183811
+
+pages with no in-links(sources)::14350
+proportion of pages with no in-links (sources)::0.07806932120493333
+********************************************************************
+pages with no out-links (sinks)::66175
+proportion of pages with no out-links (sinks)::0.3600165387272797
+********************************************************************
+pages whose PageRank is less than their initial, uniform values::144318
+proportion of pages whose PageRank is less than their initial, uniform values::0.7851434353765553
+********************************************************************
